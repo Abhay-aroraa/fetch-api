@@ -202,3 +202,11 @@ body {
         width: 70%;
     }
 }
+@media screen and (max-width:450px){
+    #getfacts{
+        position: static;
+    }
+    #heading{
+        position: static;
+    }
+}
